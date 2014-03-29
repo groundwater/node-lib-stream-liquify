@@ -7,11 +7,11 @@
     "test": "test"
   },
   "dependencies": {
-    "concat-stream": "~1.4.4",
-    "jshint": "~2.4.4"
   },
   "devDependencies": {
-    "tap": "~0.4.8"
+    "tap": "~0.4.8",
+    "concat-stream": "~1.4.4",
+    "jshint": "~2.4.4"
   },
   "scripts": {
     "test": "jshint index.js && tap test/*.js"
