@@ -1,13 +1,12 @@
 {
   "name": "lib-stream-liquify",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "streams from objects",
   "main": "index.js",
   "directories": {
     "test": "test"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "tap": "~0.4.8",
     "concat-stream": "~1.4.4",
