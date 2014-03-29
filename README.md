@@ -1,5 +1,7 @@
 # lib-stream-liquify
 
+[![Build Status](https://travis-ci.org/groundwater/node-lib-stream-liquify.svg?branch=master)](https://travis-ci.org/groundwater/node-lib-stream-liquify)
+
 ## install
 
 ```bash
